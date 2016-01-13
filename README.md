@@ -1,2 +1,2 @@
-# vrpazdejesus.github.io
+# http://vrpazdejesus.github.io
 My blog
