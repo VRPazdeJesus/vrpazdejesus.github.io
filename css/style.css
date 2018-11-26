@@ -173,7 +173,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801b71d6', e
 }
 .intro p {
 	color: #fff;
-	font-size: 28px;
+	font-size: 2vw;
 	font-weight: 300;
 	margin-bottom: 40px;
 	margin-top: 20px;
