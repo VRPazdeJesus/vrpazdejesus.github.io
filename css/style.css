@@ -164,7 +164,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801b71d6', e
 }
 .intro h1 {
 	color: rgba(255,255,255,0.9);
-	font-size: 72px;
+	font-size: 6vw;
 	font-weight: 800;
 	letter-spacing: -1px;
 	text-transform: uppercase;
@@ -173,7 +173,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801b71d6', e
 }
 .intro p {
 	color: #fff;
-	font-size: 22px;
+	font-size: 1.5vw;
 	font-weight: 300;
 	margin-bottom: 40px;
 	margin-top: 20px;
