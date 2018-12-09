@@ -637,3 +637,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c54daa', end
 .sub-foto {
 	margin-top: 0px !important;
 }
+.contato-whats {
+	color: white;
+    background: #00FF76;
+    border-color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
