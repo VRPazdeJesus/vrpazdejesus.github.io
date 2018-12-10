@@ -643,3 +643,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c54daa', end
     border-color: white;
     text-shadow: black 0.1em 0.1em 0.2em;
 }
+.contato-whats:hover, .contato-whats:focus, .contato-whats.focus {
+    color: #C54DAA;
+    text-decoration: none;
+}
