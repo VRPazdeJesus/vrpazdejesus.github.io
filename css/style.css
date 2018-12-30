@@ -647,3 +647,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c54daa', end
     color: #C54DAA;
     text-decoration: none;
 }
+.none-border-radius {
+	border-radius: 0px;
+}
