@@ -226,6 +226,25 @@ header .intro-text {
 	background: #C54DAA;
 	border-radius: 50%;
 }
+/* Works Section */
+#works {
+	padding: 120px 0;
+}
+#works h4 {
+	color: #C54DAA;
+	text-transform: uppercase;
+}
+#works i.fa {
+	font-size: 38px;
+	margin-bottom: 20px;
+	transition: all 0.5s;
+	color: #fff;
+	width: 100px;
+	height: 100px;
+	padding: 30px 0;
+	background: #C54DAA;
+	border-radius: 50%;
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
